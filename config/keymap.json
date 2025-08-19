@@ -1,0 +1,9 @@
+{
+  "UP": ["KEY_UP", "GAMEPAD1_UP"],
+  "DOWN": ["KEY_DOWN", "GAMEPAD1_DOWN"],
+  "LEFT": ["KEY_LEFT", "GAMEPAD1_LEFT"],
+  "RIGHT": ["KEY_RIGHT", "GAMEPAD1_RIGHT"],
+  "START": ["KEY_SPACE", "GAMEPAD1_START"],
+  "A": ["KEY_Z", "GAMEPAD1_A"],
+  "B": ["KEY_X", "GAMEPAD1_B"]
+}
